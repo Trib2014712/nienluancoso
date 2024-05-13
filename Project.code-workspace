@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../CT275-2023/Project"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Project"
+	}
+}
